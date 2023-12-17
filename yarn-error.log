@@ -1,0 +1,26 @@
+Arguments: 
+  /Users/matvej/.nvm/versions/node/v18.17.1/bin/node /Users/matvej/.cache/node/corepack/yarn/1.22.19/bin/yarn.js add -D turbo
+
+PATH: 
+  /Library/Frameworks/Python.framework/Versions/3.10/bin:/Users/matvej/.nvm/versions/node/v18.17.1/bin:/Users/matvej/Library/Application Support/cloud-code/installer/google-cloud-sdk/bin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/share/dotnet:~/.dotnet/tools:/usr/local/go/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:/Users/matvej/Library/Application Support/cloud-code/installer/google-cloud-sdk/bin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/Users/matvej/.nvm/versions/node/v18.17.1/bin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/go/bin:/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.17.1
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: ENOENT: no such file or directory, open '/Users/matvej/Library/Caches/Yarn/v6/npm-turbo-darwin-arm64-1.11.2-583a4d0025bc3f953a9eeb7065cb173f481a9965-integrity/node_modules/turbo-darwin-arm64/.yarn-metadata.json'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
